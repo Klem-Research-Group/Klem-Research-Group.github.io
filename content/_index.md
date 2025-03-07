@@ -7,11 +7,12 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
+      title: Klem Research Group
+        content: Integrative computational modeling to understand and exploit enzyme *modus operandi*.
+        align: center
+        background:
+          image:
+            filename: DALLE-2025-03-06.jpg
       text: |
         <br>
         
