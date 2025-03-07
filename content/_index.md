@@ -5,19 +5,24 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: slider
     content:
-      title: Klem Research Group
+      slides:
+      - title: Klem Research Group
         content: Integrative computational modeling to understand and exploit enzyme *modus operandi*.
         align: center
         background:
           image:
             filename: DALLE-2025-03-06.jpg
-      text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
+     
   - block: collection
     content:
       title: Latest News
