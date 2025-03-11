@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: DALLE-2025-03-06
+            filename: website_background_busy.png
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
