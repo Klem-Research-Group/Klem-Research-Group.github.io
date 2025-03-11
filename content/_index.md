@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Klem Research Group
-        content: Integrative computational modeling to understand and exploit enzyme *modus operandi*.
+      - title: 
+        content:
         align: center
         background:
           image:
@@ -22,46 +22,6 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
-     
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-  
 
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
 ---
