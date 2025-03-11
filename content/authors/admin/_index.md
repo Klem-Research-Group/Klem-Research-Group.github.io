@@ -21,10 +21,11 @@ organizations:
 bio: The focus of my research group is to apply and develop computational approaches to study enzymes.
 
 interests:
-  - Allosteric Regulation
+  - Antibiotic Resistance
   - Plastic Biorecycling
   - Drug Design
   - Biocatalyst Engineering
+  - Allosteric Regulation
   - Python Software Development
 
 education:
@@ -43,13 +44,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'heidiklem@lsu.edu'
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/HeidiKlem
+    link: 'https://www.linkedin.com/in/heidi-klem/'
   - icon: google-scholar
     icon_pack: ai
-    link: 
+    link: 'https://scholar.google.com/citations?user=DO7yQEUAAAAJ&hl=en'
   - icon: github
     icon_pack: fab
     link: https://github.com/hklem
@@ -71,5 +72,5 @@ user_groups:
   - Principal Investigator
 ---
 
-Prof. Heidi Klem is a computational biopysical chemist specializing in enzyme modeling, with expertise in quantum mechanics
-(QM), molecular dynamics, and software development. At LSU her research group applies and develops computational approaches to study enzymes for applications in pastic recycling and antibiotic resistance.
+Prof. Heidi Klem is a computational biophysical chemist specializing in enzyme modeling, with expertise in quantum mechanics
+(QM), molecular dynamics (MD), and software development. At LSU her research group applies and develops computational approaches to study enzymes for applications in pastic recycling and antibiotic resistance.
