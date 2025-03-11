@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: website_background_busy.jpg 
+            filename: website_background_busy.jpg  
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
