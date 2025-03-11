@@ -22,6 +22,4 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
-
-
 ---
