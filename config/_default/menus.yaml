@@ -15,6 +15,10 @@ main:
     weight: 30
   - name: Publications
     url: publication
+    weight: 70
+  main:
+  - name: Join
+    url: /join/
     weight: 40
   - name: News
     url: post
