@@ -10,6 +10,8 @@ appearance:
   theme_night:
   font: native
   font_size: L
+  color: purple
+  mode: light
 
 # SEO
 
@@ -39,7 +41,13 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
+    show_logo: true
     highlight_active_link: false
+    # For some reason the logo never appears?
+    logo:
+      text: ""
+      # Logo filename in `assets/media/` folder
+      filename: "icon.png" 
 
 # Site footer
 

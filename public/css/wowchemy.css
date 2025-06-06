@@ -9740,7 +9740,7 @@ div.chart {
   justify-content: center; }
 
 .slider-title {
-  font-size: 2.5rem; }
+  color: #000000; }
   @media (max-width: 768px) {
     .slider-title {
-      font-size: 1.5rem; } }
+      font-size: 2rem; } }
