@@ -65,6 +65,19 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-      - name: Deploy to GitHub Pages
+      - name: Initial deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+  
+  # Deploy website AGAIN to GitHub Pages hosting (for some reason if it only deploys once, the home page is the readme.md document, instead of the true homepage
+  deploy2:
+    if: github.repository_owner != 'HugoBlox'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: deploy
+    steps:
+      - name: Final deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
