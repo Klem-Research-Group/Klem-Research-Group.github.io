@@ -7,7 +7,7 @@ The Klem Lab develops integrative computational models to understand and exploit
 
 <br>
 
-## <div style="text-align: center;">1. Computational Tools for the Enzyme Modeling</div>
+## <div style="text-align: center;">1. Computational Tools for Enzyme Modeling</div>
 
 <div style="text-align: center;">
   <img src="/uploads/research/qmzyme.png" alt="QMzyme and tools" style="width: 75%; margin: 1em auto;">
