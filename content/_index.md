@@ -12,7 +12,7 @@ sections:
         filename: icon.png
       text: |
         <br>
-        The Klem Research Group at LSU develops integrative computational models to understand and exploit enzyme function. We combine quantum mechanics, molecular dynamics, and machine learning to address challenges in medicine and sustainability.
+        The Klem Research Group at LSU develops integrative computational models to understand and exploit enzyme function. We combine quantum mechanics, molecular dynamics, and machine learning to investigate catalytic mechanisms, engineer biocatalysts, and design novel enzyme systems. Our work bridges fundamental theory and real-world application, addressing pressing challenges in medicine, biotechnology, and sustainable chemistry.
 
   - block: slider
     content:
@@ -26,7 +26,7 @@ sections:
             We build community-focused infrastructure such as <a href="https://qmzyme.readthedocs.io/en/latest/" target="_blank"><strong>QMzyme</strong></a> to automate quantum mechanical enzyme modeling. Our work integrates high-fidelity QM/MM and MD workflows to uncover catalytic mechanisms, electrostatic features, and structural determinants of activity in systems like β-lactamases.
           align: center
           background:
-            color: "#e0e0e0"
+            color: "#E0DBF0"
 
         - title: '<span style="color: #000000;">Automation & Machine Learning for Biocatalyst Design</span>'
           content: >
@@ -37,7 +37,7 @@ sections:
             We streamline enzyme engineering using hybrid workflows that combine QM/MM simulations with machine learning-guided predictions. Our models help identify reactive conformations, prioritize mutations, and accelerate optimization campaigns for novel biocatalysts.
           align: center
           background:
-            color: "#e0e0e0"
+            color: "#E0DBF0"
 
         - title: '<span style="color: #000000;">Multienzyme Systems for Plastic Degradation</span>'
           content: >
@@ -48,7 +48,7 @@ sections:
             We design and model multienzyme systems for PET plastic degradation, uncovering catalytic mechanisms and structural dynamics to guide the engineering of efficient depolymerization pathways. Our work contributes to sustainable biocatalysis and plastic recycling innovation.
           align: center
           background:
-            color: "#e0e0e0"
+            color: "#E0DBF0"
     design:
       slide_height: ''
       is_fullscreen: true
@@ -76,11 +76,18 @@ sections:
 
   - block: markdown
     content:
-      title:
-      subtitle:
+      title: Get to Know Us
+      subtitle: Learn about the people behind the science
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        We're a collaborative, curious, and growing research group dedicated to pushing the boundaries of computational enzymology. From postdocs to undergrads, each member contributes unique perspectives and strengths to our work.
+
+        {{% cta cta_link="/people/" cta_text="Meet the team →" color="#E0DBF0" %}}
     design:
       columns: '1'
+      spacing:
+        padding: ['40px', '0', '40px', '0']
+      background:
+        color: "#E0DBF0"
+
 ---
 
