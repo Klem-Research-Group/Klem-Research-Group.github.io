@@ -117,6 +117,9 @@
     <loc>//localhost:1313/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>//localhost:1313/google91ac21e73ded3a3a/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>//localhost:1313/author/alice-wu-%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
