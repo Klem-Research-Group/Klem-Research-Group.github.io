@@ -19,8 +19,8 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
+    org_name: 'Klem Lab'
+    description: "The Klem Research Group at LSU implements and develops integrative computational models to understand and exploit enzyme function using quantum mechanics, molecular dynamics, and machine learning."
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -30,6 +30,21 @@ marketing:
   verification:
     google: ''
     baidu: ''
+  keywords:
+    - enzyme modeling
+    - computational chemistry
+    - molecular dynamics
+    - quantum chemistry
+    - machine learning
+    - biocatalysis
+    - LSU biochemistry
+    - Klem Research Group
+    - Klem Lab
+    - computational biochemistry
+    - computational enzymology
+    - enzyme structure function
+    - Heidi Klem
+  image: icon.png
 
 # Site header
 
