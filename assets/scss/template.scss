@@ -11,8 +11,12 @@
 .slider-title {
   color: #000000;
 
-  @media (max-width: 768px) {
+  @media (max-width: 1000px) {
     font-size: 2rem;  // md:text-4xl
+  }
+  
+  @media (max-width: 650px) {
+    font-size: 1.5rem;  // md:text-4xl
   }
 
 }
