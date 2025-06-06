@@ -2,7 +2,7 @@
 title: Research Areas
 view: compact
 ---
-
+ 
 The Klem Lab develops integrative computational models to understand and exploit enzyme function. We combine quantum mechanics (QM), molecular dynamics (MD), and machine learning to design biocatalysts, reveal mechanisms, and support real-world applications in medicine and sustainability.
 
 <br>
