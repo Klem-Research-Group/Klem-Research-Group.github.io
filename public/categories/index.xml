@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Klem Research Group</title>
-    <link>Klem-Research-Group.github.io/categories/</link>
-      <atom:link href="Klem-Research-Group.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/categories/</link>
+      <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>Klem-Research-Group.github.io/media/icon_hu_4f30228ebcdcf26c.png</url>
+      <url>//localhost:1313/media/icon_hu_4f30228ebcdcf26c.png</url>
       <title>Categories</title>
-      <link>Klem-Research-Group.github.io/categories/</link>
+      <link>//localhost:1313/categories/</link>
     </image>
     
   </channel>

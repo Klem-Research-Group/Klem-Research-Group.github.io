@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latest News | Klem Research Group</title>
-    <link>Klem-Research-Group.github.io/post/</link>
-      <atom:link href="Klem-Research-Group.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/post/</link>
+      <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>Klem-Research-Group.github.io/media/icon_hu_4f30228ebcdcf26c.png</url>
+      <url>//localhost:1313/media/icon_hu_4f30228ebcdcf26c.png</url>
       <title>Latest News</title>
-      <link>Klem-Research-Group.github.io/post/</link>
+      <link>//localhost:1313/post/</link>
     </image>
     
     <item>
       <title>Klem Lab Hiring Postdoctoral Researcher for Fall 2025</title>
-      <link>Klem-Research-Group.github.io/post/2025-06-05-postdoc-hiring/</link>
+      <link>//localhost:1313/post/2025-06-05-postdoc-hiring/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>Klem-Research-Group.github.io/post/2025-06-05-postdoc-hiring/</guid>
+      <guid>//localhost:1313/post/2025-06-05-postdoc-hiring/</guid>
       <description>&lt;p&gt;The Klem Research Group at Louisiana State University is actively recruiting a &lt;strong&gt;postdoctoral researcher&lt;/strong&gt; to join the lab in &lt;strong&gt;Fall 2025&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Our group focuses on &lt;strong&gt;computational enzymology&lt;/strong&gt;, developing integrative workflows that combine quantum mechanics, molecular dynamics, and machine learning to understand and engineer enzyme function. We are particularly interested in applicants with experience in &lt;strong&gt;biomolecular modeling, method development, or enzymatic mechanism studies&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;This position offers the opportunity to:&lt;/p&gt;
@@ -34,12 +34,12 @@
     
     <item>
       <title>The Klem Lab Officially Launches at LSU</title>
-      <link>Klem-Research-Group.github.io/post/05-05-2025-klem-lab-launch/</link>
+      <link>//localhost:1313/post/05-05-2025-klem-lab-launch/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>Klem-Research-Group.github.io/post/05-05-2025-klem-lab-launch/</guid>
+      <guid>//localhost:1313/post/05-05-2025-klem-lab-launch/</guid>
       <description>&lt;p&gt;The Klem Research Group will open its doors this Fall 2025 at Louisiana State University! 🎉&lt;/p&gt;
 &lt;p&gt;Our lab focuses on integrative computational modeling of enzymes to address critical challenges in medicine and sustainability, including antibiotic resistance and plastic degradation. We&amp;rsquo;re building tools like &lt;a href=&#34;https://qmzyme.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QMzyme&lt;/a&gt; to make quantum enzymology more accessible, and we’re excited to kick off collaborations, software development, and new research directions.&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;re interested in joining the team or learning more about our work, visit the &lt;a href=&#34;Klem-Research-Group.github.io/join&#34;&gt;Join&lt;/a&gt; page or check out our &lt;a href=&#34;Klem-Research-Group.github.io/research&#34;&gt;Research&lt;/a&gt; areas.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re interested in joining the team or learning more about our work, visit the &lt;a href=&#34;//localhost:1313/join&#34;&gt;Join&lt;/a&gt; page or check out our &lt;a href=&#34;//localhost:1313/research&#34;&gt;Research&lt;/a&gt; areas.&lt;/p&gt;
 &lt;p&gt;Stay tuned — we have exciting updates ahead!&lt;/p&gt;
 </description>
     </item>

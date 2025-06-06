@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Klem Research Group</title>
-    <link>Klem-Research-Group.github.io/authors/</link>
-      <atom:link href="Klem-Research-Group.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/</link>
+      <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>Klem-Research-Group.github.io/media/icon_hu_4f30228ebcdcf26c.png</url>
+      <url>//localhost:1313/media/icon_hu_4f30228ebcdcf26c.png</url>
       <title>Authors</title>
-      <link>Klem-Research-Group.github.io/authors/</link>
+      <link>//localhost:1313/authors/</link>
     </image>
     
   </channel>

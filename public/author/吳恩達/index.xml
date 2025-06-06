@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>吳恩達 | Klem Research Group</title>
-    <link>Klem-Research-Group.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</link>
-      <atom:link href="Klem-Research-Group.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/author/%E5%90%B3%E6%81%A9%E9%81%94/</link>
+      <atom:link href="//localhost:1313/author/%E5%90%B3%E6%81%A9%E9%81%94/index.xml" rel="self" type="application/rss+xml" />
     <description>吳恩達</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>Klem-Research-Group.github.io/media/icon_hu_4f30228ebcdcf26c.png</url>
+      <url>//localhost:1313/media/icon_hu_4f30228ebcdcf26c.png</url>
       <title>吳恩達</title>
-      <link>Klem-Research-Group.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</link>
+      <link>//localhost:1313/author/%E5%90%B3%E6%81%A9%E9%81%94/</link>
     </image>
     
     <item>
       <title>Alice Wu 吳恩達</title>
-      <link>Klem-Research-Group.github.io/author/alice-wu-%E5%90%B3%E6%81%A9%E9%81%94/</link>
+      <link>//localhost:1313/author/alice-wu-%E5%90%B3%E6%81%A9%E9%81%94/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>Klem-Research-Group.github.io/author/alice-wu-%E5%90%B3%E6%81%A9%E9%81%94/</guid>
+      <guid>//localhost:1313/author/alice-wu-%E5%90%B3%E6%81%A9%E9%81%94/</guid>
       <description>&lt;p&gt;吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 </description>

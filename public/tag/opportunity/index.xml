@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opportunity | Klem Research Group</title>
-    <link>Klem-Research-Group.github.io/tag/opportunity/</link>
-      <atom:link href="Klem-Research-Group.github.io/tag/opportunity/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/tag/opportunity/</link>
+      <atom:link href="//localhost:1313/tag/opportunity/index.xml" rel="self" type="application/rss+xml" />
     <description>Opportunity</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>Klem-Research-Group.github.io/media/icon_hu_4f30228ebcdcf26c.png</url>
+      <url>//localhost:1313/media/icon_hu_4f30228ebcdcf26c.png</url>
       <title>Opportunity</title>
-      <link>Klem-Research-Group.github.io/tag/opportunity/</link>
+      <link>//localhost:1313/tag/opportunity/</link>
     </image>
     
     <item>
       <title>Klem Lab Hiring Postdoctoral Researcher for Fall 2025</title>
-      <link>Klem-Research-Group.github.io/post/2025-06-05-postdoc-hiring/</link>
+      <link>//localhost:1313/post/2025-06-05-postdoc-hiring/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>Klem-Research-Group.github.io/post/2025-06-05-postdoc-hiring/</guid>
+      <guid>//localhost:1313/post/2025-06-05-postdoc-hiring/</guid>
       <description>&lt;p&gt;The Klem Research Group at Louisiana State University is actively recruiting a &lt;strong&gt;postdoctoral researcher&lt;/strong&gt; to join the lab in &lt;strong&gt;Fall 2025&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Our group focuses on &lt;strong&gt;computational enzymology&lt;/strong&gt;, developing integrative workflows that combine quantum mechanics, molecular dynamics, and machine learning to understand and engineer enzyme function. We are particularly interested in applicants with experience in &lt;strong&gt;biomolecular modeling, method development, or enzymatic mechanism studies&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;This position offers the opportunity to:&lt;/p&gt;

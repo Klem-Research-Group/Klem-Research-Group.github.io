@@ -17,7 +17,7 @@ sections:
   - block: slider
     content:
       slides:
-        - title: '<span style="color: #000000;">Computational Tools for Enzyme Modeling</span>'
+        - title: '<span class="slider-title;" style="color: #000000;">Computational Tools for Enzyme Modeling</span>'
           content: >
             <div style="text-align: center;">
               <img src="/uploads/qmzyme.png" alt="QMzyme and tools" style="width: 30%; margin: 1em auto;">
@@ -28,7 +28,7 @@ sections:
           background:
             color: "#E0DBF0"
 
-        - title: '<span style="color: #000000;">Automation & Machine Learning for Biocatalyst Design</span>'
+        - title: '<span class="slider-title;" style="color: #000000;">Automation & Machine Learning for Biocatalyst Design</span>'
           content: >
             <div style="text-align: center;">
               <img src="/uploads/research/streamlined_biocatalyst_design.png" alt="Biocatalyst ML" style="width: 30%; margin: 1em auto;">
@@ -39,7 +39,7 @@ sections:
           background:
             color: "#E0DBF0"
 
-        - title: '<span style="color: #000000;">Multienzyme Systems for Plastic Degradation</span>'
+        - title: '<span class="slider-title;" style="color: #000000;">Multienzyme Systems for Plastic Degradation</span>'
           content: >
             <div style="text-align: center;">
               <img src="/uploads/research/PET_proposal_horizontal.png" alt="Multienzyme PETase" style="width: 100%; margin: 1em auto;">

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Klem Research Group</title>
-    <link>//localhost:1313/tags/</link>
-      <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
+    <title>Join the Lab | Klem Research Group</title>
+    <link>//localhost:1313/join/</link>
+      <atom:link href="//localhost:1313/join/index.xml" rel="self" type="application/rss+xml" />
+    <description>Join the Lab</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu_4f30228ebcdcf26c.png</url>
-      <title>Tags</title>
-      <link>//localhost:1313/tags/</link>
+      <title>Join the Lab</title>
+      <link>//localhost:1313/join/</link>
     </image>
     
   </channel>
