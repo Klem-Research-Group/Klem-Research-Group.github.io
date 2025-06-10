@@ -12,7 +12,7 @@ sections:
       text: >
         The Klem Lab is currently **hiring a postdoctoral researcher** to start in **Fall 2025**, and we’re also looking for enthusiastic **undergraduate students** to join our team.
 
-        If you’re interested in computational chemistry, enzyme modeling, or interdisciplinary science, we’d love to hear from you.
+        If you’re interested in computational biochemistry, enzyme modeling, or interdisciplinary science, we’d love to hear from you.
 
         👉 [Learn more and apply →](/join)
     design:
