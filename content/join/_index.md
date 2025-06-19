@@ -13,7 +13,7 @@ The Klem Research Group at Louisiana State University invites applications for a
 - Python software development or workflow automation
 - Enzyme catalysis or biocatalysis
 
-Responsibilities:
+**Responsibilities**:
 - Develop and apply computational methods for enzyme catalysis, including QM/MM simulations and electrostatic modeling.
 - Contribute to the development and extension of QMzyme, an open-source Python toolkit for high-throughput enzyme modeling.
 - Design and simulate multi-enzyme complexes for plastic degradation and biocatalysis.
@@ -22,20 +22,20 @@ Responsibilities:
 - Mentor graduate and undergraduate students in computational workflows and biochemical theory.
 - Prepare manuscripts, present research at scientific conferences, and assist in developing grant proposals.
 
-Minimum Qualifications:
+**Minimum Qualifications**:
 - Ph.D. in chemistry, biochemistry, biophysics, computational biology, or a related field by the start date.
 - Strong background in molecular modeling, particularly in QM, QM/MM, or MD simulations of biomolecules.
 - Proficiency in Python programming and scripting, and familiarity with scientific software development practices.
 - Evidence of productivity through peer-reviewed publications and/or open-source contributions.
 - Ability to work both independently and as part of a collaborative research team.
 
-Preferred Qualifications:
+**Preferred Qualifications**:
 - Experience with enzyme catalysis modeling or drug/enzyme design.
 - Familiarity with software such as Gaussian, ORCA, AMBER, GROMACS, PyMol, or VMD.
 - Interest in sustainability, biocatalysis, or antibiotic resistance mechanisms.
 - Strong scientific communication skills.
 
-Appointment Details:
+**Appointment Details**:
 - Initial appointment is for one year, with renewal contingent on performance and funding.
 - Fully funded through startup resources, with a competitive salary and benefits.
 - Start date is flexible, but we seek to hire early Fall 2025 to support lab launch and early research initiatives.
