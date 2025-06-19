@@ -12,7 +12,7 @@ sections:
         filename: icon.png
       text: |
         <br>
-        The Klem Research Group at LSU develops integrative computational models to understand and exploit enzyme function. We combine quantum mechanics, molecular dynamics, and machine learning to investigate catalytic mechanisms, engineer biocatalysts, and design novel enzyme systems. Our work bridges fundamental theory and real-world application, addressing pressing challenges in medicine, biotechnology, and sustainable chemistry.
+        The Klem Research Group at LSU develops integrative computational models to understand and exploit enzyme function. We combine quantum mechanics, molecular dynamics, and machine learning to investigate catalytic mechanisms, engineer biocatalysts, and design novel enzyme systems. Our work bridges fundamental theory and real-world application, addressing pressing challenges in medicine, biotechnology, and sustainability.
 
   - block: slider
     content:
