@@ -41,11 +41,10 @@ The Klem Research Group at Louisiana State University invites applications for a
 - Start date is flexible, but we seek to hire early Fall 2025 to support lab launch and early research initiatives.
 
 
-We value **collaborative, inclusive science**, and we welcome applicants from all backgrounds.
-
-If you're interested or would like to learn more, please **email Dr. Heidi Klem** at [heidiklem@lsu.edu](mailto:heidiklem@lsu.edu) with a CV and a brief cover letter outlining your research interests and how they align with the Klem Lab, and contact information for 2–3 references.
+**How to Apply**:
+If you're interested or would like to learn more, please **email Dr. Heidi Klem** at [heidiklem@lsu.edu](mailto:heidiklem@lsu.edu) with a CV and a brief cover letter outlining your research interests and how they align with the Klem Lab, and contact information for 2–3 references. Review of applications will begin immediately and continue until the position is filled.
 
 ---
 
-💡 *The Klem Lab is committed to fostering an inclusive and supportive research environment where curiosity-driven and collaborative science can thrive.*
+💡 *The Klem Lab is committed to fostering an inclusive and supportive research environment where curiosity-driven and collaborative science can thrive. Qualified candidates from all backgrounds are encouraged to apply.*
 
