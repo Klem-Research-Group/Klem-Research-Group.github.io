@@ -15,7 +15,7 @@ The Klem Research Group at Louisiana State University invites applications for a
 
 **Responsibilities**:
 - Develop and apply computational methods for enzyme catalysis, including QM/MM simulations and electrostatic modeling.
-- Contribute to the development and extension of QMzyme, an open-source Python toolkit for high-throughput enzyme modeling.
+- Contribute to the development and extension of [QMzyme](https://qmzyme.readthedocs.io/en/latest/), an open-source Python toolkit for high-throughput enzyme modeling.
 - Design and simulate multi-enzyme complexes for plastic degradation and biocatalysis.
 - Perform conformational sampling and structure-based mutational analysis using molecular dynamics and semiempirical QM methods.
 - Collaborate with international and domestic experimental partners to validate computational predictions.
@@ -42,7 +42,8 @@ The Klem Research Group at Louisiana State University invites applications for a
 
 
 **How to Apply**:
-If you're interested or would like to learn more, please **email Dr. Heidi Klem** at [heidiklem@lsu.edu](mailto:heidiklem@lsu.edu) with a CV and a brief cover letter outlining your research interests and how they align with the Klem Lab, and contact information for 2–3 references. Review of applications will begin immediately and continue until the position is filled.
+If you're interested or would like to learn more, please **email Dr. Heidi Klem** at [heidiklem@lsu.edu](mailto:heidiklem@lsu.edu) with a CV and a brief cover letter outlining your research interests and how they align with the Klem Lab, and contact information for 2–3 references. Additionally, submit a formal application with the same materials via this link: [https://lsu.wd1.myworkdayjobs.com/en-US/LSU/job/0202-Life-Sciences-Building/Postdoctoral-Researcher_R00105682](https://lsu.wd1.myworkdayjobs.com/en-US/LSU/job/0202-Life-Sciences-Building/Postdoctoral-Researcher_R00105682). 
+Review of applications will begin immediately and continue until the position is filled.
 
 ---
 
