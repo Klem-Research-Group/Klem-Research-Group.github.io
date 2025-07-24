@@ -1,6 +1,6 @@
 ---
 title: Join the Lab
-date: 2025-06-05
+date: 2025-07-24
 type: docs
 layout: page
 ---
