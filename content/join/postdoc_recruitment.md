@@ -1,3 +1,5 @@
+
+<!--
 We are actively recruiting a **postdoctoral researcher** to join the Klem Lab at **Louisiana State University** starting **Fall 2025**!
 
 The Klem Research Group at Louisiana State University invites applications for a postdoctoral researcher position in computational biochemistry, enzyme modeling, and biocatalyst design. We are a newly established research group in the Department of Biological Sciences focused on understanding and exploiting enzyme function using integrative modeling approaches. Our research bridges quantum chemistry, molecular dynamics, machine learning, and biochemical design, with applications spanning **biocatalysis**, **sustainable chemistry**, and **drug resistance**. We are especially interested in candidates with experience in:
@@ -40,3 +42,4 @@ Review of applications will begin immediately and continue until the position is
 ---
 
 💡 *The Klem Lab is committed to fostering an inclusive and supportive research environment where curiosity-driven and collaborative science can thrive. Qualified candidates from all backgrounds are encouraged to apply.*
+-->
