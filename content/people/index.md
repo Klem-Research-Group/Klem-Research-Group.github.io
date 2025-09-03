@@ -4,7 +4,7 @@ date: 2022-10-24
 
 type: landing
 
-sections:
+[//]: # (sections:
   - block: markdown
     content:
       title:
@@ -18,7 +18,8 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['20px', '0', '20px', '0'])
+    
   - block: people
     content:
       title: Meet the Team
