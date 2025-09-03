@@ -6,22 +6,6 @@ type: landing
 
 sections:
 
-<!--
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: >
-        The Klem Lab is currently **hiring a postdoctoral researcher** to start in **Fall 2025**, and we’re also looking for enthusiastic **undergraduate students** to join our team.
-
-        If you’re interested in computational biochemistry, enzyme modeling, or interdisciplinary science, we’d love to hear from you.
-
-    design:
-      columns: '1'
-      spacing:
-        padding: ['20px', '0', '20px', '0']
--->
-    
   - block: people
     content:
       title: Meet the Team
