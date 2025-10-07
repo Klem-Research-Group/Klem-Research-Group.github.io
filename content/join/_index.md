@@ -12,6 +12,10 @@ For more information about the graduate program, visit the [BioSci Graduate Prog
 
 Prospective students specifically interested in joining the Klem Lab are also encouraged to directly contact Dr. Klem (heidiklem[at]lsu.edu). In your email, please provide a resume/CV and completed [prospective graduate student questionnaire](https://lsumail2-my.sharepoint.com/:w:/g/personal/heidiklem_lsu_edu/Ef1mKcraEpxOjptB9TF1odgBGoB4VVAfFQJPjPCwgFFpxw?e=YCHWh1). Do not use any AI assistance to generate your responses to this questionnaire. 
 
+### Undergraduate Positions
+
+Prospective students specifically interested in joining the Klem Lab should contact Dr. Klem (heidiklem[at]lsu.edu). In your email, please provide a resume/CV and completed [prospective undergraduate student questionnaire](https://lsumail2-my.sharepoint.com/:w:/g/personal/heidiklem_lsu_edu/ES5d2Gv7PwxOg2O2oqcY2oQBQTFqd5mpjRaDaHbaC-3MgQ?e=Gepcf2). Do not use any AI assistance to generate your responses to this questionnaire. 
+
 ### Postdoctoral Positions
 Thank you for your interest in the Klem lab! The position for **postdoctoral researcher** starting **Fall 2025** has been filled and applications are no longer being considered at this time. If you have funding of your own please reach out to Heidi Klem directly via email. 
 
