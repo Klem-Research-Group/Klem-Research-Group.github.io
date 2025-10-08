@@ -10,7 +10,7 @@ last_name: Klem
 superuser: true
 
 # Role/position
-role: Principal Investigator, Assistant Professor of Biochemistry
+role: Assistant Professor of Biochemistry, Principal Investigator
 
 # Organizations/Affiliations
 organizations:
