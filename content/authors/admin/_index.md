@@ -10,7 +10,7 @@ last_name: Klem
 superuser: true
 
 # Role/position
-role: Principal Investigator
+role: Principal Investigator, Assistant Professor of Biochemistry
 
 # Organizations/Affiliations
 organizations:
@@ -30,10 +30,13 @@ interests:
 
 education:
   courses:
-    - course: PhD in Physical Chemistry
+    - course: National Research Council Postdoctoral Fellow
+      institution: National Institute of Standards and Technology
+      year: 2023-2025
+    - course: Ph.D. in Physical Chemistry
       institution: Colorado State University
       year: 2023
-    - course: BS in Chemistry
+    - course: B.S. in Chemistry
       institution: Creighton University
       year: 2018
 
@@ -44,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'heidiklem@lsu.edu'
+    link: 'mailto:heidiklem@lsu.edu'
   - icon: linkedin
     icon_pack: fab
     link: 'https://www.linkedin.com/in/heidi-klem/'
@@ -73,4 +76,4 @@ user_groups:
 ---
 
 Prof. Heidi Klem is a computational biophysical chemist specializing in enzyme modeling, with expertise in quantum mechanics
-(QM), molecular dynamics (MD), and software development. At LSU her research group applies and develops computational approaches to study enzymes for applications in pastic recycling and antibiotic resistance.
+(QM), molecular dynamics (MD), and software development. At LSU her research group applies and develops computational approaches to study enzymes for applications in plastic recycling and antibiotic resistance.
