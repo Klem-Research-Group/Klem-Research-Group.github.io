@@ -30,10 +30,10 @@ education:
     - course: Ph.D. in Chemistry
       institution: The University of Texas at Dallas
       year: 2025
-    - course: MS in Chemistry
+    - course: M.S. in Chemistry
       institution: Missouri State University
       year: 2020
-    - course: BS in Biochemistry and Microbiology
+    - course: B.S. in Biochemistry and Microbiology
       institution: St. Xavier’s College
       year: 2018
 
