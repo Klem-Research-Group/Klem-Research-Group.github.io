@@ -9,6 +9,8 @@ sections:
   - block: people
     content:
       title: Meet the Team
+      text: |
+        Click on photo to learn more about each person.
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
@@ -16,7 +18,6 @@ sections:
           - Postdoctoral Scholars
           - Graduate Students
           - Undergraduate Students
-          - Administration
           - Visiting Scholars
           - Alumni 
       sort_by: Params.last_name
