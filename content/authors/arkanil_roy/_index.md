@@ -72,4 +72,4 @@ user_groups:
   - Postdoctoral Scholars
 ---
 
-Dr. Arkanil Roy is a computational biochemist specializing in Molecular Dynamics (MD) simulations, Quantum Mechanical (QM) and hybrid Quantum Mechanics/Molecular Mechanics (QM/MM) calculations, as well as computational method development. His research primarily focuses on enzyme catalysis, conformational dynamics, and the effects of mutations on enzymatic characteristics.Dr. Arkanil Roy is a computational biochemist specializing in Molecular Dynamics (MD) simulations, Quantum Mechanical (QM) and hybrid Quantum Mechanics/Molecular Mechanics (QM/MM) calculations, as well as computational method development. His research primarily focuses on enzyme catalysis, conformational dynamics, and the effects of mutations on enzymatic characteristics.
+Dr. Arkanil Roy is a computational biochemist specializing in Molecular Dynamics (MD) simulations, Quantum Mechanical (QM) and hybrid Quantum Mechanics/Molecular Mechanics (QM/MM) calculations, as well as computational method development. His research primarily focuses on enzyme catalysis, conformational dynamics, and the effects of mutations on enzymatic characteristics.
