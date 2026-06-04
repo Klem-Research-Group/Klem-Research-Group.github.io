@@ -14,21 +14,6 @@ sections:
         <br>
         The Klem Research Group at LSU develops integrative computational models to understand and exploit enzyme function. We combine quantum mechanics, molecular dynamics, and machine learning to investigate catalytic mechanisms, engineer biocatalysts, and design novel enzyme systems. Our work bridges fundamental theory and real-world application, addressing pressing challenges in medicine, biotechnology, and sustainability.
 
-  - block: markdown
-    content:
-      title: Photo Gallery
-      text: |
-        Explore recent Klem Lab moments in a filmstrip-style gallery.
-        <div class="home-filmstrip">
-          <div class="filmstrip-track">
-            <img src="/uploads/setca2026-heidi-klem.jpg" alt="Heidi Klem at SETCA 2026" class="filmstrip-item" />
-            <img src="/uploads/klem_group_setca.jpg" alt="Klem Lab at SETCA 2026" class="filmstrip-item" />
-            <img src="/uploads/kim_roy_setca.jpg" alt="Roy and Kim at SETCA 2026" class="filmstrip-item" />
-            <img src="/uploads/poster_prize_setca.jpg" alt="Digital Discovery poster prize at SETCA 2026" class="filmstrip-item" />
-            <img src="/uploads/setca2026-heidi-klem.jpg" alt="Heidi Klem at SETCA 2026" class="filmstrip-item" />
-            <img src="/uploads/klem_group_setca.jpg" alt="Klem Lab at SETCA 2026" class="filmstrip-item" />
-          </div>
-        </div>
   - block: slider
     content:
       slides:
@@ -87,6 +72,11 @@ sections:
     design:
       view: list
       columns: '1'
+
+  - block: markdown
+    content:
+      text: |
+        {{< filmstrip >}}
 
   - block: markdown
     content:

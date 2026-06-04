@@ -46,15 +46,26 @@
   }
 }
 
+.home-section.wg-markdown {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
 .home-filmstrip {
   overflow: hidden;
-  padding: 1rem 0;
+  padding: 0 !important;
+  margin: 0 !important;
 }
 
 .filmstrip-track {
   display: flex;
   align-items: center;
   gap: 1rem;
+  padding: 0 !important;
+  margin: 0 !important;
+  width: max-content;
   animation: filmstrip-scroll 18s linear infinite;
 }
 

@@ -1,0 +1,29 @@
+{{ $dir := "static/uploads" }}
+{{ $files := readDir $dir }}
+{{ $extensions := slice ".jpg" ".jpeg" ".png" ".webp" ".gif" }}
+{{ $images := slice }}
+
+{{ range $files }}
+  {{ if and (not .IsDir) (in $extensions (lower (path.Ext .Name))) }}
+    {{ $images = $images | append .Name }}
+  {{ end }}
+{{ end }}
+
+{{ $images = sort $images }}
+
+{{ if gt (len $images) 0 }}
+<div class="home-filmstrip">
+  <div class="filmstrip-track">
+    {{ range $images }}
+      {{ $name := . }}
+      {{ $alt := replaceRE `\.[^\.]+$` "" $name | replaceRE `[-_]+` " " }}
+      <img src="/uploads/{{ . }}" alt="{{ $alt }}" class="filmstrip-item" />
+    {{ end }}
+    {{ range $images }}
+      <img src="/uploads/{{ . }}" alt="" class="filmstrip-item filmstrip-clone" aria-hidden="true" />
+    {{ end }}
+  </div>
+</div>
+{{ else }}
+<div class="home-filmstrip-empty">No gallery images found.</div>
+{{ end }}
