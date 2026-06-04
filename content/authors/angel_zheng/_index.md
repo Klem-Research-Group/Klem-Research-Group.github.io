@@ -12,8 +12,6 @@ superuser: false
 # Role/position
 role: CCT REU Student
 
-image: "/uploads/angel_zheng_headshot.png"
-
 # Short bio (displayed in user profile at end of posts)
 bio: Angel Zheng is a senior undergraduate double majoring in Mathematics (Statistics pathway) and Economics, with a minor in Computer Science. She specializes in statistical modeling and machine learning applications, and she aims to use data-driven approaches to better understand economics and health science problems.
 
@@ -45,7 +43,5 @@ highlight_name: false
 user_groups:
   - Undergraduate Students
 ---
-
-![Angel Zheng headshot](/uploads/angel_zheng_headshot.png)
 
 Angel Zheng is a senior undergraduate student in the LSU CCT REU program who double majors in Mathematics and Economics with a minor in Computer Science. She focuses on statistical modeling and machine learning for economics and health science data, and she is excited to contribute data-driven solutions to interdisciplinary research challenges.
