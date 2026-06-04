@@ -21,4 +21,27 @@
 
 }
 
+@media (min-width: 992px) {
+  .wg-hero .hero-media {
+    max-width: 35%;
+    flex: 0 0 35%;
+  }
+
+  .wg-hero .row > .col-md-6:not(.hero-media) {
+    max-width: 65%;
+    flex: 0 0 65%;
+  }
+
+  .wg-hero .hero-media img {
+    max-width: 75%;
+    width: auto;
+    height: auto;
+  }
+
+  .wg-hero .hero-lead {
+    max-width: none;
+    font-size: 1.2rem;
+  }
+}
+
 
